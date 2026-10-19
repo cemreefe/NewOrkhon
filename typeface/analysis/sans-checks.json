@@ -1,0 +1,16 @@
+{
+  "version": "0.16.2",
+  "signs": 42,
+  "forms": 84,
+  "glyphs": 91,
+  "kerning_pairs": 76,
+  "min_compiled_clearance": 33.52610922848042,
+  "ligatures": [
+    "u10C22_u10C03.liga",
+    "u10C22_u10C03.lc.liga"
+  ],
+  "fonts": [
+    "NewOrkhonSans-Regular.ttf",
+    "NewOrkhonSansLowercase-Regular.ttf"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "status": "unapplied",
+  "diagnostic": "Centered, same-em grayscale raster IoU; not reader confusion.",
+  "Serif": [
+    {
+      "case": "capital",
+      "nearest_three": [
+        {
+          "codepoint": "U+10C24",
+          "raster_intersection_over_union": 0.3102
+        },
+        {
+          "codepoint": "U+10C14",
+          "raster_intersection_over_union": 0.2942
+        },
+        {
+          "codepoint": "U+10C21",
+          "raster_intersection_over_union": 0.2874
+        }
+      ],
+      "AG": 0.1763,
+      "BASH": 0.234
+    },
+    {
+      "case": "lowercase",
+      "nearest_three": [
+        {
+          "codepoint": "U+10C3C",
+          "raster_intersection_over_union": 0.3442
+        },
+        {
+          "codepoint": "U+10C0D",
+          "raster_intersection_over_union": 0.3242
+        },
+        {
+          "codepoint": "U+10C14",
+          "raster_intersection_over_union": 0.2955
+        }
+      ],
+      "AG": 0.3242,
+      "BASH": 0.2395
+    }
+  ],
+  "Sans": [
+    {
+      "case": "capital",
+      "nearest_three": [
+        {
+          "codepoint": "U+10C48",
+          "raster_intersection_over_union": 0.3069
+        },
+        {
+          "codepoint": "U+10C21",
+          "raster_intersection_over_union": 0.2931
+        },
+        {
+          "codepoint": "U+10C43",
+          "raster_intersection_over_union": 0.2922
+        }
+      ],
+      "AG": 0.1802,
+      "BASH": 0.3069
+    },
+    {
+      "case": "lowercase",
+      "nearest_three": [
+        {
+          "codepoint": "U+10C3C",
+          "raster_intersection_over_union": 0.3384
+        },
+        {
+          "codepoint": "U+10C48",
+          "raster_intersection_over_union": 0.3172
+        },
+        {
+          "codepoint": "U+10C31",
+          "raster_intersection_over_union": 0.313
+        }
+      ],
+      "AG": 0.2904,
+      "BASH": 0.3172
+    }
+  ]
+}

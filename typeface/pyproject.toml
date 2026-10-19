@@ -1,0 +1,14 @@
+[tool.ruff]
+extend-exclude = ["archive-v01", "archive-v02"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F", "I"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["ad_enc_study", "build", "case_proofs", "construction_revision", "ductus", "feedback", "lowercase", "oq_study", "sans", "sans_proofs", "specimen", "validate_sans"]
+
+[tool.mypy]
+ignore_missing_imports = true
+follow_imports = "silent"
+check_untyped_defs = true
+files = ["build.py", "ductus.py", "lowercase.py", "sans.py", "case_proofs.py", "specimen.py", "validate.py", "validate_sans.py", "report.py", "feedback.py", "oq_study.py", "showcase.py", "glyph_similarity.py", "glyph_report.py", "differentiation.py", "at_revision.py", "shaping_revision.py", "construction_revision.py", "sans_proofs.py", "ad_enc_study.py", "fit_revision.py", "em_alpha_study.py"]

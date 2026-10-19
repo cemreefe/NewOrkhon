@@ -1,0 +1,43 @@
+code	name	top	bottom	left_class	right_class	advance	decision
+U+10C00	A	510	0	diagonal	diagonal	499	Shorter opposed returns form the small mirrored z.
+U+10C03	I	510	-190	stem	round	423	A curved f-like head fills the body above a descending left post.
+U+10C06	O	510	0	round	open	282	One short, flowing cusp.
+U+10C07	OE	510	-190	stem	stem	527	Deepen the upper return to the baseline; retain both post heights and the descender, at lowercase 82/59 weight.
+U+10C09	AB	510	0	round	round	380	One bowl and its returned head.
+U+10C0B	AEB	510	-190	diagonal	diagonal	451	The eye fills x-height to baseline; only its two legs descend.
+U+10C0D	AG	510	0	open	open	638	Literal lowercase Cyrillic ж; taper the four incoming arms locally, keeping the central upright.
+U+10C0F	AEG	510	0	round	open	511	Open-right small bow and middle bar, like a mirrored э.
+U+10C11	AD	510	0	stem	round	556	The second sketch's right-hand option: one upright and top arm join two open returns.
+U+10C13	AED	510	0	diagonal	diagonal	475	Small opposing diagonals share a crossing.
+U+10C14	EZ	510	0	open	round	458	The first sketch's loop-and-leg: a closed tilted eye, short lower post and falling leg.
+U+10C16	AY	700	0	stem	round	465	A tall post with one lower bowl.
+U+10C18	AEY	510	-190	round	round	439	Small open head and attached descender.
+U+10C1A	AEK	510	-190	round	stem	565	A rounded lower return closes the curved head into its post above the baseline, avoiding a stretched flat-bottomed counter.
+U+10C1C	OEK	700	0	stem	open	445	A curved f-like ascender head replaces the squared cap arm; the lower tier stays on its original path.
+U+10C1E	AL	510	-190	open	stem	433	Dotless j with unchanged outline; tighten only its left sidebearing from 32 to 18.
+U+10C20	AEL	510	-190	diagonal	diagonal	506	The Y body reaches the baseline before its tail descends.
+U+10C21	ELT	510	0	stem	stem	562	Two short posts share a single low valley.
+U+10C22	EM	510	-190	open	round	399	The open R-like bowl fills the body; its exit leg alone descends.
+U+10C23	AN	510	0	open	round	475	A genuine small reversed C with inward ends.
+U+10C24	AEN	510	0	stem	stem	547	A single RTL n: the entry serif and shoulder spring from the right stem.
+U+10C26	ENT	510	0	stem	stem	547	Dotless small u has a continued right post and baseline foot.
+U+10C28	ENC	700	0	stem	round	508	Two wider body-height bowls open both counters without thinning the ascender.
+U+10C2A	ENY	510	0	open	round	443	A small double bowl with a leftward waist.
+U+10C2D	ENG	700	0	open	stem	352	One mid-stem branch on an ascender.
+U+10C2F	EP	510	-190	round	stem	423	A curved mirrored-f head above a descending post; AEK retains its crossbar.
+U+10C30	OP	700	0	stem	stem	497	An ascender links two shorter right-hand tiers.
+U+10C31	IC	510	-190	open	stem	645	Two full-body rounded returns; only the straight right pole descends.
+U+10C32	EC	700	0	diagonal	lambda	518	Preserve the curved lambda outline and shift it up 190 units; both feet meet the baseline.
+U+10C34	AQ	700	0	open	stem	476	Reuse the capital AQ at full size, with identical outline and spacing.
+U+10C36	IQ	510	0	diagonal	stem	453	Small triangular open-left body with its pointed side.
+U+10C38	OQ	510	0	round	open	580	Keep the pole-right skeleton and 82/59 model; locally taper the wings at the horizontal pole.
+U+10C3A	AR	510	-190	open	stem	430	The free return reaches the baseline; keep the approved untapered outline.
+U+10C3C	AER	510	-190	stem	stem	742	The descending m drawn RTL: entry serif on the right stem, two shoulders and a central descender.
+U+10C3D	AS	510	-190	open	stem	505	One full-body rounded return and a short descending pole; IC has two.
+U+10C3E	AES	510	0	stem	stem	252	One full-height lowercase minim.
+U+10C3F	ASH	510	0	round	round	453	A small oval establishes round counterspace.
+U+10C41	ESH	510	-190	diagonal	diagonal	474	The fork and raised link form a closed full-body head; only the central stem descends.
+U+10C43	AT	700	0	stem	round	523	A b-like full-body bowl shares its stem with an ascender; the top arm overhangs left to distinguish it from AY.
+U+10C45	AET	700	0	stem	open	462	Tall left post with a shorter falling free leg.
+U+10C47	OT	510	0	stem	stem	592	A small inverted u carries two symmetric hat tips.
+U+10C48	BASH	510	0	round	round	584	A continuous figure-eight route places the two counters above and below a narrow crossing.

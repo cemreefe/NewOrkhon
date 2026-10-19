@@ -1,0 +1,36 @@
+{
+  "version": "0.16.2",
+  "base": "0.13",
+  "changed": [
+    "u10C00",
+    "u10C00.lc",
+    "u10C07.lc",
+    "u10C0B",
+    "u10C0B.lc",
+    "u10C13",
+    "u10C13.lc",
+    "u10C14",
+    "u10C1A.lc",
+    "u10C1C.lc",
+    "u10C20",
+    "u10C20.lc",
+    "u10C22",
+    "u10C22.lc",
+    "u10C22_u10C03.lc.liga",
+    "u10C22_u10C03.liga",
+    "u10C24.lc",
+    "u10C32",
+    "u10C32.lc",
+    "u10C3C.lc"
+  ],
+  "unchanged_glyphs": 71,
+  "tangent_attachments_checked": 24,
+  "OE_body_coverage": {
+    "before": 0.6076908881199539,
+    "after": 0.5711807024968261
+  },
+  "corner_attachments_checked": 4,
+  "OEK_lower_tier_area_delta": 26.5,
+  "AEK_counter_area_before": 88470.0,
+  "AEK_counter_area_after": 95428.5
+}

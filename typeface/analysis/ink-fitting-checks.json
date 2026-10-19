@@ -1,0 +1,1113 @@
+{
+  "version": "0.16.2",
+  "forms": 84,
+  "previously_cropped_forms": 58,
+  "outline_y_scaling": false,
+  "bounding_box_crop": false,
+  "changes_from_0.15": {
+    "Text": [
+      "u10C00",
+      "u10C00.lc"
+    ],
+    "Sans": [
+      ".notdef",
+      "divider",
+      "period",
+      "comma",
+      "u10C00",
+      "u10C03",
+      "u10C06",
+      "u10C07",
+      "u10C09",
+      "u10C0B",
+      "u10C0D",
+      "u10C0F",
+      "u10C11",
+      "u10C13",
+      "u10C14",
+      "u10C16",
+      "u10C18",
+      "u10C1A",
+      "u10C1C",
+      "u10C1E",
+      "u10C20",
+      "u10C21",
+      "u10C22",
+      "u10C23",
+      "u10C24",
+      "u10C26",
+      "u10C28",
+      "u10C2A",
+      "u10C2D",
+      "u10C2F",
+      "u10C30",
+      "u10C31",
+      "u10C32",
+      "u10C34",
+      "u10C36",
+      "u10C38",
+      "u10C3A",
+      "u10C3C",
+      "u10C3D",
+      "u10C3F",
+      "u10C41",
+      "u10C43",
+      "u10C45",
+      "u10C47",
+      "u10C48",
+      "u10C00.lc",
+      "u10C03.lc",
+      "u10C06.lc",
+      "u10C07.lc",
+      "u10C09.lc",
+      "u10C0B.lc",
+      "u10C0D.lc",
+      "u10C0F.lc",
+      "u10C11.lc",
+      "u10C13.lc",
+      "u10C14.lc",
+      "u10C16.lc",
+      "u10C18.lc",
+      "u10C1A.lc",
+      "u10C1C.lc",
+      "u10C1E.lc",
+      "u10C20.lc",
+      "u10C21.lc",
+      "u10C22.lc",
+      "u10C23.lc",
+      "u10C24.lc",
+      "u10C26.lc",
+      "u10C28.lc",
+      "u10C2A.lc",
+      "u10C2D.lc",
+      "u10C2F.lc",
+      "u10C30.lc",
+      "u10C31.lc",
+      "u10C32.lc",
+      "u10C34.lc",
+      "u10C36.lc",
+      "u10C38.lc",
+      "u10C3A.lc",
+      "u10C3C.lc",
+      "u10C3D.lc",
+      "u10C3F.lc",
+      "u10C41.lc",
+      "u10C43.lc",
+      "u10C45.lc",
+      "u10C47.lc",
+      "u10C48.lc",
+      "u10C22_u10C03.liga",
+      "u10C22_u10C03.lc.liga"
+    ]
+  },
+  "measurements": [
+    {
+      "codepoint": "U+10C00",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        58.0,
+        0.0,
+        512.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C03",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        82.99999999999999,
+        0.0,
+        482.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C06",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 79.832,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        85.08011008948588,
+        -4.7183794866234585e-06,
+        356.99989992489225,
+        700.0000000951017
+      ]
+    },
+    {
+      "codepoint": "U+10C07",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 3364.874,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        87.99999999999999,
+        0.0,
+        447.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C09",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 938.534,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        38.37006893828527,
+        -10.000049143435643,
+        431.80395663020516,
+        700.0000534820496
+      ]
+    },
+    {
+      "codepoint": "U+10C0B",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 4276.019,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        65.65458155304978,
+        -3.229356605916056e-05,
+        434.34541844694996,
+        700.0000505926379
+      ]
+    },
+    {
+      "codepoint": "U+10C0D",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 3194.362,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        74.63965911442617,
+        0.0,
+        545.360340885572,
+        700.0000389186365
+      ]
+    },
+    {
+      "codepoint": "U+10C0F",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        55.500098022521726,
+        -9.999960842268614,
+        529.2983561440337,
+        709.9999608422685
+      ]
+    },
+    {
+      "codepoint": "U+10C11",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 6681.334,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        53.002179763991826,
+        -6.97015194235373e-05,
+        550.7487960425937,
+        700.0000697002534
+      ]
+    },
+    {
+      "codepoint": "U+10C13",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 1333.509,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        61.509872726186714,
+        -4.4932081836979165e-05,
+        468.490127273813,
+        700.0000449320827
+      ]
+    },
+    {
+      "codepoint": "U+10C14",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 2984.624,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        53.0,
+        -9.736599710485905e-06,
+        592.0,
+        700.0000643743036
+      ]
+    },
+    {
+      "codepoint": "U+10C16",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 5608.578,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        77.99999999999999,
+        -3.508626037529439e-05,
+        491.9998643316587,
+        700.0000350862607
+      ]
+    },
+    {
+      "codepoint": "U+10C18",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        56.166653226633386,
+        1.4210854715202004e-14,
+        464.53620808437074,
+        710.0000188284987
+      ]
+    },
+    {
+      "codepoint": "U+10C1A",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 1332.91,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        91.7520890709225,
+        0.0,
+        442.0,
+        700.000060344137
+      ]
+    },
+    {
+      "codepoint": "U+10C1C",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        82.99999999999999,
+        0.0,
+        462.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C1E",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        53.0,
+        0.0,
+        407.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C20",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 751.671,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        42.170748595792894,
+        0.0,
+        497.645389943168,
+        700.000052203418
+      ]
+    },
+    {
+      "codepoint": "U+10C21",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 3290.413,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        73.0,
+        0.0,
+        527.0,
+        700.000010483335
+      ]
+    },
+    {
+      "codepoint": "U+10C22",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 6050.374,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        98.92101217871004,
+        -4.683893848200782e-05,
+        518.693725015951,
+        700.0000441529751
+      ]
+    },
+    {
+      "codepoint": "U+10C23",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        65.43536224559885,
+        -10.000017284322489,
+        540.7486970340793,
+        710.0000172843226
+      ]
+    },
+    {
+      "codepoint": "U+10C24",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 763.257,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        37.99999999999999,
+        -7.941042115566788e-05,
+        491.99999999999994,
+        700.0000794104217
+      ]
+    },
+    {
+      "codepoint": "U+10C26",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        68.0,
+        -10.000011804828087,
+        532.0,
+        700.0000000000002
+      ]
+    },
+    {
+      "codepoint": "U+10C28",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        68.0,
+        0.0,
+        489.4351369043545,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C2A",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        66.55927299190324,
+        -10.000017284231685,
+        513.5033563992969,
+        710.0000172842316
+      ]
+    },
+    {
+      "codepoint": "U+10C2D",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        78.77246861799286,
+        0.0,
+        327.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C2F",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 1861.734,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        58.0,
+        0.0,
+        422.0,
+        700.0000516386687
+      ]
+    },
+    {
+      "codepoint": "U+10C30",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 1817.168,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        82.99999999999999,
+        0.0,
+        431.99999999999994,
+        700.0000646412155
+      ]
+    },
+    {
+      "codepoint": "U+10C31",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 2740.504,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        48.0,
+        0.0,
+        517.0,
+        700.0000430297596
+      ]
+    },
+    {
+      "codepoint": "U+10C32",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 6933.235,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        20.047549144853285,
+        -2.0905205551091655e-05,
+        504.9524508551468,
+        700.0000109745872
+      ]
+    },
+    {
+      "codepoint": "U+10C34",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 343.545,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        56.65231104937366,
+        -3.404570936305085e-05,
+        422.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C36",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 3583.589,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        43.07805916478457,
+        -3.436905230191911e-05,
+        407.0,
+        700.0000343690523
+      ]
+    },
+    {
+      "codepoint": "U+10C38",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 2341.716,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        74.5805991990326,
+        -2.6999238961877836e-05,
+        455.4194008009673,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C3A",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        58.04375923376277,
+        0.0,
+        422.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C3C",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 3549.67,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        56.21511233377221,
+        0.0,
+        503.78488766622536,
+        700.0000533905369
+      ]
+    },
+    {
+      "codepoint": "U+10C3D",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        77.99999999999999,
+        0.0,
+        517.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C3E",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        107.99999999999999,
+        0.0,
+        192.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C3F",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        45.50007101226124,
+        -10.000035633530599,
+        504.4999289877387,
+        710.0000356335308
+      ]
+    },
+    {
+      "codepoint": "U+10C41",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 8112.751,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        58.000501953001574,
+        0.0,
+        481.9994980469984,
+        700.0000135164249
+      ]
+    },
+    {
+      "codepoint": "U+10C43",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 3442.519,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        -20.0,
+        -1.5596141781148987e-05,
+        481.9998311430477,
+        700.0
+      ]
+    },
+    {
+      "codepoint": "U+10C45",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 481.394,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        82.99999999999999,
+        -4.4742240462580796e-05,
+        485.4616484092448,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C47",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 1143.38,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        63.0,
+        0.0,
+        537.0,
+        700.0000955637557
+      ]
+    },
+    {
+      "codepoint": "U+10C48",
+      "case": "capital",
+      "ink_area_removed_by_previous_crop": 573.664,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        43.62706906243942,
+        -3.715772733936529e-05,
+        556.3729309375606,
+        700.000037157802
+      ]
+    },
+    {
+      "codepoint": "U+10C00",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        61.99999999999999,
+        0.0,
+        423.0,
+        510.0
+      ]
+    },
+    {
+      "codepoint": "U+10C03",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 1692.614,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        67.0,
+        -190.0,
+        364.714918010572,
+        510.0000920861931
+      ]
+    },
+    {
+      "codepoint": "U+10C06",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 6.549,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        77.0004613385822,
+        -3.1501671989269536e-07,
+        302.9218038340428,
+        510.00000031501673
+      ]
+    },
+    {
+      "codepoint": "U+10C07",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 2309.648,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        92.0,
+        -190.00000000000003,
+        442.99999999999994,
+        510.00000000000006
+      ]
+    },
+    {
+      "codepoint": "U+10C09",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 816.963,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        42.923420014904515,
+        -10.00002450819232,
+        352.5972305856093,
+        510.0000266755859
+      ]
+    },
+    {
+      "codepoint": "U+10C0B",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 826.851,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        70.75029385003596,
+        -190.00003594718618,
+        409.24970614996397,
+        510.0000155096229
+      ]
+    },
+    {
+      "codepoint": "U+10C0D",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 7627.942,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        69.60678638668001,
+        -1.5494400305571254e-05,
+        530.39321361332,
+        510.00001549440026
+      ]
+    },
+    {
+      "codepoint": "U+10C0F",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        5.709919433141784,
+        -10.000024558620794,
+        458.28269766542843,
+        520.0000245583024
+      ]
+    },
+    {
+      "codepoint": "U+10C11",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 6905.68,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        57.0,
+        -1.6824941110882285e-05,
+        490.01812057869694,
+        510.00001682464676
+      ]
+    },
+    {
+      "codepoint": "U+10C13",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 1321.078,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        71.43540383484134,
+        -3.212281429465502e-05,
+        413.5645961651585,
+        510.0000321228143
+      ]
+    },
+    {
+      "codepoint": "U+10C14",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 7508.146,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        57.33059137358144,
+        -7.197153050697569e-05,
+        443.9547377577592,
+        510.00003339238174
+      ]
+    },
+    {
+      "codepoint": "U+10C16",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 6852.619,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        61.99999999999999,
+        0.0,
+        404.24971537437307,
+        700.0
+      ]
+    },
+    {
+      "codepoint": "U+10C18",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        59.28816153670542,
+        -190.0,
+        427.95210816978494,
+        520.0000520329589
+      ]
+    },
+    {
+      "codepoint": "U+10C1A",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 1743.852,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        -4.021620237804772,
+        -190.0,
+        437.99999999999994,
+        510.0000383411786
+      ]
+    },
+    {
+      "codepoint": "U+10C1C",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 4911.603,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        67.0,
+        0.0,
+        374.82864171868135,
+        700.0000103917862
+      ]
+    },
+    {
+      "codepoint": "U+10C1E",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 3871.613,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        66.4376214074392,
+        -190.00000803876384,
+        387.99999999999994,
+        510.0
+      ]
+    },
+    {
+      "codepoint": "U+10C20",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 399.737,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        53.65303246266227,
+        -190.0,
+        436.3231808455787,
+        510.00001712691227
+      ]
+    },
+    {
+      "codepoint": "U+10C21",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 5639.326,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        67.0,
+        0.0,
+        453.0,
+        510.00004966017264
+      ]
+    },
+    {
+      "codepoint": "U+10C22",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 1654.609,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        82.00474751119565,
+        -190.0000190129562,
+        425.12941341334727,
+        510.00001802284925
+      ]
+    },
+    {
+      "codepoint": "U+10C23",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        57.55719540645542,
+        -10.00001580616936,
+        474.24981126004417,
+        520.0000158061695
+      ]
+    },
+    {
+      "codepoint": "U+10C24",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 209.226,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        57.0,
+        0.0,
+        427.99999999999994,
+        510.00008406908063
+      ]
+    },
+    {
+      "codepoint": "U+10C26",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 263.516,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        61.99999999999999,
+        -9.95111367968482e-05,
+        432.99999999999994,
+        510.0
+      ]
+    },
+    {
+      "codepoint": "U+10C28",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        67.0,
+        0.0,
+        452.2758399969016,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C2A",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        50.859117093664395,
+        -10.00001580845261,
+        435.8236644334445,
+        520.0000158084526
+      ]
+    },
+    {
+      "codepoint": "U+10C2D",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        90.35884336321172,
+        0.0,
+        333.0,
+        700.0
+      ]
+    },
+    {
+      "codepoint": "U+10C2F",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 1692.614,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        90.28508198942808,
+        -190.0,
+        387.99999999999994,
+        510.0000920861931
+      ]
+    },
+    {
+      "codepoint": "U+10C30",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        67.0,
+        0.0,
+        387.99999999999994,
+        700.0
+      ]
+    },
+    {
+      "codepoint": "U+10C31",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 2083.198,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        47.0,
+        -190.0,
+        553.0,
+        510.0
+      ]
+    },
+    {
+      "codepoint": "U+10C32",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 3042.909,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        28.967925870409655,
+        -3.899866027307075e-05,
+        441.46356327395927,
+        700.0000721354452
+      ]
+    },
+    {
+      "codepoint": "U+10C34",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 343.545,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        56.65231104937366,
+        -3.404570936305085e-05,
+        422.0,
+        699.9999999999999
+      ]
+    },
+    {
+      "codepoint": "U+10C36",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 7038.594,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        51.99999999999999,
+        -2.771660110478802e-05,
+        387.99999999999994,
+        510.00002771660115
+      ]
+    },
+    {
+      "codepoint": "U+10C38",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 4.422,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        -170.07110320323793,
+        -9.694663923205671e-08,
+        356.99999999999994,
+        510.0000000969467
+      ]
+    },
+    {
+      "codepoint": "U+10C3A",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 4.876,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        62.053519057915615,
+        -190.00000000000003,
+        382.99999999999994,
+        510.00001958618304
+      ]
+    },
+    {
+      "codepoint": "U+10C3C",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 362.025,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        57.0,
+        -190.0,
+        622.9999999999999,
+        510.0000847186701
+      ]
+    },
+    {
+      "codepoint": "U+10C3D",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        57.0,
+        -190.0,
+        423.0,
+        510.0
+      ]
+    },
+    {
+      "codepoint": "U+10C3E",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        92.0,
+        0.0,
+        167.99999999999997,
+        510.0
+      ]
+    },
+    {
+      "codepoint": "U+10C3F",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 0.0,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        38.25181563751018,
+        -10.000015810080335,
+        421.7481843624898,
+        520.0000158100803
+      ]
+    },
+    {
+      "codepoint": "U+10C41",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 9155.963,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        42.00906283589596,
+        -190.0,
+        457.990937164104,
+        510.0000103900277
+      ]
+    },
+    {
+      "codepoint": "U+10C43",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 2782.361,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        -15.0,
+        -1.9207105341756403e-05,
+        417.9983859493905,
+        700.0
+      ]
+    },
+    {
+      "codepoint": "U+10C45",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 314.331,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        71.99999999999999,
+        -3.9022654532983037e-05,
+        424.09181521316486,
+        700.0
+      ]
+    },
+    {
+      "codepoint": "U+10C47",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 1060.459,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        57.0,
+        0.0,
+        472.99999999999994,
+        510.0000901875138
+      ]
+    },
+    {
+      "codepoint": "U+10C48",
+      "case": "lowercase",
+      "ink_area_removed_by_previous_crop": 417.934,
+      "ink_area_removed_by_current_crop": 0,
+      "bounds": [
+        44.74527065288063,
+        -8.313586614128177e-05,
+        555.2547293471193,
+        510.000083135978
+      ]
+    }
+  ]
+}

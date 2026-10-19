@@ -1,0 +1,17 @@
+* text=auto
+*.png binary
+*.pdf binary
+*.pptx binary
+*.ttf binary
+*.zip binary
+*.csv text eol=lf
+
+output/** linguist-generated=true
+previews/** linguist-generated=true
+word-comparison/** linguist-generated=true
+typeface/analysis/** linguist-generated=true
+typeface/archive-*/** linguist-generated=true
+typeface/New-Orkhon-Showcase.html linguist-generated=true -whitespace
+
+# Preserve bundled third-party license text verbatim.
+assets/*-OFL.txt -whitespace
