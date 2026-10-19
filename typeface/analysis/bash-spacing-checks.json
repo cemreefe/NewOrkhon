@@ -1,0 +1,72 @@
+{
+  "version": "0.16.2",
+  "base": "0.16",
+  "bash_shift_reverted": true,
+  "all_outlines_metrics_and_shaping_match_base": true,
+  "measurements": [
+    {
+      "font": "NewOrkhonText-Regular.ttf",
+      "glyph": "u10C48",
+      "shift_from_016": 0,
+      "advance": 587,
+      "left": 32,
+      "right": 32
+    },
+    {
+      "font": "NewOrkhonText-Regular.ttf",
+      "glyph": "u10C48.lc",
+      "shift_from_016": 0,
+      "advance": 584,
+      "left": 32,
+      "right": 32
+    },
+    {
+      "font": "NewOrkhonTextLowercase-Regular.ttf",
+      "glyph": "u10C48",
+      "shift_from_016": 0,
+      "advance": 587,
+      "left": 32,
+      "right": 32
+    },
+    {
+      "font": "NewOrkhonTextLowercase-Regular.ttf",
+      "glyph": "u10C48.lc",
+      "shift_from_016": 0,
+      "advance": 584,
+      "left": 32,
+      "right": 32
+    },
+    {
+      "font": "NewOrkhonSans-Regular.ttf",
+      "glyph": "u10C48",
+      "shift_from_016": 0,
+      "advance": 569,
+      "left": 28,
+      "right": 28
+    },
+    {
+      "font": "NewOrkhonSans-Regular.ttf",
+      "glyph": "u10C48.lc",
+      "shift_from_016": 0,
+      "advance": 567,
+      "left": 28,
+      "right": 28
+    },
+    {
+      "font": "NewOrkhonSansLowercase-Regular.ttf",
+      "glyph": "u10C48",
+      "shift_from_016": 0,
+      "advance": 569,
+      "left": 28,
+      "right": 28
+    },
+    {
+      "font": "NewOrkhonSansLowercase-Regular.ttf",
+      "glyph": "u10C48.lc",
+      "shift_from_016": 0,
+      "advance": 567,
+      "left": 28,
+      "right": 28
+    }
+  ]
+}

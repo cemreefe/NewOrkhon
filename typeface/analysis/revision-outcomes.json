@@ -1,0 +1,42 @@
+[
+  {
+    "pair": "upper \u00b7 AEK/EP",
+    "before": 0.9248855125822845,
+    "after": 0.7914059647257857
+  },
+  {
+    "pair": "upper \u00b7 AEL/ESH",
+    "before": 0.9224833249027358,
+    "after": 0.8386827344697617
+  },
+  {
+    "pair": "upper \u00b7 AEN/BASH",
+    "before": 0.8815390715940205,
+    "after": 0.5835380179617
+  },
+  {
+    "pair": "upper \u00b7 ELT/BASH",
+    "before": 0.8752714757339617,
+    "after": 0.5621239724693379
+  },
+  {
+    "pair": "lower \u00b7 AEK/EP",
+    "before": 0.9220020147157295,
+    "after": 0.2866873758050593
+  },
+  {
+    "pair": "lower \u00b7 AEL/ESH",
+    "before": 0.9020925805480735,
+    "after": 0.7322488021691484
+  },
+  {
+    "pair": "lower \u00b7 AEN/BASH",
+    "before": 0.6246359692405268,
+    "after": 0.5891904694024876
+  },
+  {
+    "pair": "lower \u00b7 ELT/BASH",
+    "before": 0.7897432303645616,
+    "after": 0.568964436261452
+  }
+]

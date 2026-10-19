@@ -1,0 +1,40 @@
+{
+  "applied": false,
+  "metric": "center-aligned vector Dice, not a confusion probability",
+  "current_AD_ENC": 0.5748307975442295,
+  "proposal_AD_ENC": 0.47902388393398365,
+  "nearest": [
+    {
+      "glyph": "u10C3A.lc",
+      "score": 0.581606408584069
+    },
+    {
+      "glyph": "u10C48.lc",
+      "score": 0.579183841750845
+    },
+    {
+      "glyph": "u10C2A.lc",
+      "score": 0.5701715223171199
+    },
+    {
+      "glyph": "u10C34",
+      "score": 0.569492386821664
+    },
+    {
+      "glyph": "u10C34.lc",
+      "score": 0.569492386821664
+    },
+    {
+      "glyph": "u10C21.lc",
+      "score": 0.5671177151533544
+    },
+    {
+      "glyph": "u10C36.lc",
+      "score": 0.5518738188512617
+    },
+    {
+      "glyph": "u10C07.lc",
+      "score": 0.5460422749805238
+    }
+  ]
+}

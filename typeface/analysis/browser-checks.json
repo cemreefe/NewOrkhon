@@ -1,0 +1,12 @@
+{
+  "audit": {
+    "desktop_mobile_themes_controls_keyboard_print_noscript": "pass",
+    "console_errors": [],
+    "runtime_network_requests": []
+  },
+  "showcase": {
+    "desktop_mobile_themes_controls_keyboard_print_noscript": "pass",
+    "console_errors": [],
+    "runtime_network_requests": []
+  }
+}

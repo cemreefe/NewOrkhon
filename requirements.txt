@@ -1,0 +1,3 @@
+-r typeface/requirements.txt
+python-pptx==1.0.2
+PyMuPDF==1.24.14

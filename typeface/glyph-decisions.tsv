@@ -1,0 +1,43 @@
+code	name	principles	left_class	right_class	advance	decision
+U+10C00	A	1,3,4,5,6	diagonal	diagonal	617	Opposed level arms meet a long incline. Optical bars and paired serifs keep the mirrored Z legible at text sizes.
+U+10C03	I	1,3,4,5,6	stem	open	508	The upper return levels into the same cap arm as A; its upright remains the diagnostic difference.
+U+10C06	O	1,3,4,5,6	round	open	328	One flowing cusp; equal-height terminals, no ragged offset seam.
+U+10C07	OE	1,3,4,5,6	stem	stem	535	A shared shoulder connects opposed posts; side spaces follow the stem class.
+U+10C09	AB	1,3,4,5,6	round	round	463	Return and bowl meet continuously; the bowl receives a full text-height silhouette.
+U+10C0B	AEB	1,3,4,5,6	diagonal	diagonal	496	The eye has a clear counter; the two legs use the same diagonal vocabulary.
+U+10C0D	AG	1,3,4,5,6	open	open	520	The uppercase preserves two separate opposed horns and a third detached lower staff.
+U+10C0F	AEG	1,3,4,5,6	round	open	532	A rounded, mirrored Cyrillic-э construction: open to the right, with a bar reaching into the left bowl.
+U+10C11	AD	1,3,4,5,6	open	round	554	Twin serpentine strokes have matching turns and a deliberately open channel.
+U+10C13	AED	1,3,4,5,6	diagonal	diagonal	537	The cross uses balanced opposing diagonals, not unequal corner artifacts.
+U+10C14	EZ	1,3,4,5,6	stem	stem	715	Merge the upper-reaching pole and right post with a rounded cup; a lower return meets the slanted pole at mid-height.
+U+10C16	AY	1,3,4,5,6	stem	round	537	The bowl shares the oval's counter width and the common full-height text body.
+U+10C18	AEY	1,3,4,5,6	round	round	478	An open head and descending hook with one clean, continuous outline.
+U+10C1A	AEK	1,3,4,5,6	round	stem	473	The two arms close into an upper bowl: a reversed P, structurally distinct from EP's open head.
+U+10C1C	OEK	1,3,4,5,6	stem	open	488	The cap arm follows I; a lower shoulder retains the two-tier distinction.
+U+10C1E	AL	1,3,4,5,6	open	stem	463	Level the bottom return, matching A's lower arm but retaining the upright.
+U+10C20	AEL	1,3,4,5,6	diagonal	diagonal	588	A Latin-like Y: two straight upper arms, one lower stem and shared cap/foot serifs.
+U+10C21	ELT	1,3,4,5,6	stem	stem	630	Two equal posts frame a smooth valley; both feet and shoulders follow the shared system.
+U+10C22	EM	1,3,4,5,6	open	round	514	An authored one-stroke bowl-and-leg route, like R without its upright; smoothing alone cannot derive it.
+U+10C23	AN	1,3,4,5,6	open	round	532	A full open bowl, like reversed C, with inward returns instead of a parenthesis.
+U+10C24	AEN	1,3,4,5,6	stem	stem	630	A single N replaces the crowded double N; no other current sign uses that construction.
+U+10C26	ENT	1,3,4,5,6	stem	stem	640	An ordinary rounded u with two upright stems; remove its three inherited dots in this proposed reform.
+U+10C28	ENC	1,3,4,5,6	stem	round	544	Two wider bowls open the counters; keep the common upright and full stroke model.
+U+10C2A	ENY	1,3,4,5,6	open	round	504	The middle notch becomes a waist between two open bowls, like Western 3.
+U+10C2D	ENG	1,3,4,5,6	open	stem	359	The mid-stem branch stays distinct from a bottom return without using a different cap height.
+U+10C2F	EP	1,3,4,5,6	open	stem	473	A mirrored cap arm shares the I/A family's return, without the second k arm.
+U+10C30	OP	1,3,4,5,6	stem	stem	525	Two tiers and short end stems share a standard shoulder and an open lower counter.
+U+10C31	IC	1,3,4,5,6	open	stem	608	A Latinized mirrored Arabic 3; taper the incoming last return where it meets the unchanged straight pole.
+U+10C32	EC	1,3,4,5,6	diagonal	diagonal	609	Capital Greek-lambda construction: two straight rising legs share one pointed apex, with baseline serifs and no curved head.
+U+10C34	AQ	1,3,4,5,6	open	stem	476	A low curling free leg distinguishes q from the upturned r; counter widths are related.
+U+10C36	IQ	1,3,4,5,6	diagonal	stem	481	The rounded triangle shares full height with the round bowl but preserves its pointed side.
+U+10C38	OQ	1,3,4,5,6	open	open	417	Retain the upright anchor construction; taper only the incoming wings at the pole.
+U+10C3A	AR	1,3,4,5,6	open	stem	473	The free leg turns upward; a related counter and equal stem keep the q/r family coherent.
+U+10C3C	AER	1,3,4,5,6	open	open	499	Two equal shoulders meet above the stem. The stem ends at the valley, never above the roof.
+U+10C3D	AS	1,3,4,5,6	open	stem	578	One rounded upper return feeds a straight pole; IC has two returns and a third upper tip.
+U+10C3E	AES	1,3,4,5,6	stem	stem	260	The minim uses the same height and stem as the rest; width comes from its two fitted side spaces.
+U+10C3F	ASH	1,3,4,5,6	round	round	529	The oval is the reference for round counters and round-to-round spacing.
+U+10C41	ESH	1,3,4,5,6	diagonal	diagonal	482	Raise the fork's link to close its head; retain two branches and one stem, not a third upper prong.
+U+10C43	AT	1,3,4,5,6	stem	round	592	The roof becomes an overhanging top arm; the eye moves right of the staff as one broad bowl, breaking the old symmetry.
+U+10C45	AET	1,3,4,5,6	stem	open	514	The falling leg follows the same shoulder tension and lower counter scale as the other branched stems.
+U+10C47	OT	1,3,4,5,6	stem	stem	650	Two straight sides support an inverted u; two symmetric rounded hat prongs meet at the roof, not through it.
+U+10C48	BASH	1,3,4,5,6	round	round	587	An uninterrupted figure-eight route replaces the post-and-diagonal weave; two stacked counters open the waist.

@@ -1,0 +1,90 @@
+{
+  "version": "0.16.1",
+  "base": "0.16",
+  "shift_units": -12,
+  "shape_changed": false,
+  "advance_changed": false,
+  "other_glyphs_changed": false,
+  "measurements": [
+    {
+      "font": "NewOrkhonText-Regular.ttf",
+      "glyph": "u10C48",
+      "shift_x": -12,
+      "advance_before_and_after": 587,
+      "left_before": 32,
+      "left_after": 20,
+      "right_before": 32,
+      "right_after": 44
+    },
+    {
+      "font": "NewOrkhonText-Regular.ttf",
+      "glyph": "u10C48.lc",
+      "shift_x": -12,
+      "advance_before_and_after": 584,
+      "left_before": 32,
+      "left_after": 20,
+      "right_before": 32,
+      "right_after": 44
+    },
+    {
+      "font": "NewOrkhonTextLowercase-Regular.ttf",
+      "glyph": "u10C48",
+      "shift_x": -12,
+      "advance_before_and_after": 587,
+      "left_before": 32,
+      "left_after": 20,
+      "right_before": 32,
+      "right_after": 44
+    },
+    {
+      "font": "NewOrkhonTextLowercase-Regular.ttf",
+      "glyph": "u10C48.lc",
+      "shift_x": -12,
+      "advance_before_and_after": 584,
+      "left_before": 32,
+      "left_after": 20,
+      "right_before": 32,
+      "right_after": 44
+    },
+    {
+      "font": "NewOrkhonSans-Regular.ttf",
+      "glyph": "u10C48",
+      "shift_x": -12,
+      "advance_before_and_after": 569,
+      "left_before": 28,
+      "left_after": 16,
+      "right_before": 28,
+      "right_after": 40
+    },
+    {
+      "font": "NewOrkhonSans-Regular.ttf",
+      "glyph": "u10C48.lc",
+      "shift_x": -12,
+      "advance_before_and_after": 567,
+      "left_before": 28,
+      "left_after": 16,
+      "right_before": 28,
+      "right_after": 40
+    },
+    {
+      "font": "NewOrkhonSansLowercase-Regular.ttf",
+      "glyph": "u10C48",
+      "shift_x": -12,
+      "advance_before_and_after": 569,
+      "left_before": 28,
+      "left_after": 16,
+      "right_before": 28,
+      "right_after": 40
+    },
+    {
+      "font": "NewOrkhonSansLowercase-Regular.ttf",
+      "glyph": "u10C48.lc",
+      "shift_x": -12,
+      "advance_before_and_after": 567,
+      "left_before": 28,
+      "left_after": 16,
+      "right_before": 28,
+      "right_after": 40
+    }
+  ]
+}

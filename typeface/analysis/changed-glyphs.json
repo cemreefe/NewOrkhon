@@ -1,0 +1,36 @@
+{
+  "base_version": "0.13",
+  "version": "0.16.2",
+  "modified_standalone_glyphs": [
+    "u10C00",
+    "u10C0B",
+    "u10C13",
+    "u10C14",
+    "u10C20",
+    "u10C22",
+    "u10C32",
+    "u10C00.lc",
+    "u10C07.lc",
+    "u10C0B.lc",
+    "u10C13.lc",
+    "u10C1A.lc",
+    "u10C1C.lc",
+    "u10C20.lc",
+    "u10C22.lc",
+    "u10C24.lc",
+    "u10C32.lc",
+    "u10C3C.lc"
+  ],
+  "modified_ligatures": [
+    "u10C22_u10C03.liga",
+    "u10C22_u10C03.lc.liga"
+  ],
+  "added_glyphs": [],
+  "layout_features": [
+    "kern",
+    "liga",
+    "ss01",
+    "ss02",
+    "GDEF carets"
+  ]
+}
